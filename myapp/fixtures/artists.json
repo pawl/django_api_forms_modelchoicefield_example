@@ -1,0 +1,37 @@
+[
+  {
+    "model": "myapp.Artist",
+    "pk": 1,
+    "fields": {
+      "name": "Drake"
+    }
+  },
+  {
+    "model": "myapp.Artist",
+    "pk": 2,
+    "fields": {
+      "name": "Taylor Swift"
+    }
+  },
+  {
+    "model": "myapp.Artist",
+    "pk": 3,
+    "fields": {
+      "name": "Eminem"
+    }
+  },
+  {
+    "model": "myapp.Artist",
+    "pk": 4,
+    "fields": {
+      "name": "Ed Sheeran"
+    }
+  },
+  {
+    "model": "myapp.Artist",
+    "pk": 5,
+    "fields": {
+      "name": "Ariana Grande"
+    }
+  }
+]

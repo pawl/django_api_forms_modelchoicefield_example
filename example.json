@@ -1,0 +1,25 @@
+{
+  "title": "Fire Emoji Mixtape",
+  "songs": [
+    {
+      "title": "Toosie Slide",
+      "artist": 1
+    },
+    {
+      "title": "The Man",
+      "artist": 2
+    },
+    {
+      "title": "Godzilla",
+      "artist": 3
+    },
+    {
+      "title": "Shape Of You",
+      "artist": 4
+    },
+    {
+      "title": "dangerous woman",
+      "artist": 5
+    }
+  ]
+}
