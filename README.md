@@ -16,3 +16,5 @@ Start the back-end in your first terminal:
 
 Run this command to POST json to the api:
 `curl -X POST -H "Content-Type: application/json" -d @./example.json http://localhost:8000/`
+
+Watch the terminal for results.
